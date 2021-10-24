@@ -1,17 +1,17 @@
 module.exports.mess = {
 	        wait: 'PROSES...',
-			success: 'NI HASILNYA KAK',
-			wrongFormat: 'Format salah, coba liat lagi di menu',
+			success: 'okay now fine?',
+			wrongFormat: 'wrong forman check menu and try again',
 			error: {
-				api: 'APINYA HABIS BRO ISI ULANG DULU',
-				stick: 'ITU BUKAN STIKER TOLOL',
-				Iv: 'JANGAN NGASIH LINK GAJE TOD'
+				api: 'THE FIRE IS OUT, BRO CHARGE FIRST',
+				stick: 'THAT'S NOT A STILL STICKERS',
+				Iv: 'DON'T GIVE A GAJE LINK TOD'
 			},
 			only: {
-				group: 'KHUSUS GRUP BRO',
-				admin: 'KHUSUS ADMIN GRUP BRO',
-				premium: 'LU BUKAN MEMBER PREMIUM,BELI DULU SANA',
-				owner: 'KHUSUS OWNER BRO',
-				Badmin: 'BOT HARUS JADI ADMIN BRO',
+				group: 'MUST IN GRUP BRO',
+				admin: 'SPECIAL ADMIN GRUP BRO',
+				premium: 'YOU ARE NOT PREMIUM',
+				owner: 'ONLY OWNER CAN USE BRO',
+				Badmin: 'BOT MUST BE ADMIN BRO',
 			}
 		}
