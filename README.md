@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GitHub" src="https://img.shields.io/badge/KURRXD%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
+<img alt="GitHub" src="https://img.shields.io/badge/CHARLIE%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
 <br><br>
   
 > A whatsapp bot made using adiwajshing/Baileys library
